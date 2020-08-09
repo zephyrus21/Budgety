@@ -1,0 +1,15 @@
+{
+    "launch": {
+    // Always include all words from the current document.
+"javascript.suggest.alwaysAllWords": true,
+
+// Complete functions with their parameter signature.
+"javascript.suggest.useCodeSnippetsOnMethodSuggest": true
+    },
+    "bracket-pair-colorizer-2.colors": [
+        "#ffc000",
+        "#00ff00",
+        "#ff00ff",
+        "#CCFF00"
+    ]
+}
